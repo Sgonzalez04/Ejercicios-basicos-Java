@@ -7,7 +7,8 @@
     ⚙ **Saludo**
     
     Escriba un programa que pida al usuario que escriba su nombre, y lo salude llamándolo por su nombre.
-    
+
+    Ejemplo
     `Ingrese su nombre: **Perico**
     Hola, Perico`
     
@@ -19,7 +20,8 @@
     ⚙ **Círculos**
     
     Escriba un programa que reciba como entrada el radio de un círculo y entregue como salida su perímetro y su área:
-    
+
+    Ejemplo
     `Ingrese el radio: **5**
     Perimetro: 31.4
     Área: 78.5`
@@ -32,7 +34,8 @@
     ⚙ **Promedio**
     
     Escriba un programa que calcule el promedio de 4 notas ingresadas por el usuario:
-    
+
+    Ejemplo
     `Primera nota: **55**
     Segunda nota: **71**
     Tercera nota: **46**
@@ -47,7 +50,8 @@
     ⚙ **Conversión de unidades de longitud**
     
     Escriba un programa que convierta de centímetros a pulgadas. Una pulgada es igual a 2.54 centímetros.
-    
+
+    Ejemplo
     `Ingrese longitud: **45**
     45 cm = 17.7165 in`
     
@@ -61,10 +65,10 @@
     <aside>
     ⚙ ***Pitágoras***
     
-    Escriba un programa que reciba como entrada las longitudes de los dos catetos ***a*** y ***b*** de un triángulo rectángulo, y que entregue como salida el largo de la hipotenusa ***c*** del triangulo, dado por el [teorema de Pitágoras](http://es.wikipedia.org/wiki/Teorema_de_Pit%C3%A1goras): 
-    
-    ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/03aeed31-03e2-46c3-8299-4087fcd648e4/6b312c92-3c1b-4a44-bff9-4f63b3a88c25/Untitled.png)
-    
+    Escriba un programa que reciba como entrada las longitudes de los dos catetos ***a*** y ***b*** de un triángulo rectángulo, y que entregue como salida el largo de la hipotenusa ***c*** del triangulo, dado por el teorema de Pitágoras
+![image](https://github.com/Sgonzalez04/Ejercicios-basicos-Java/assets/141069199/33dc9718-96b1-474f-85d6-043de087dbc1)
+
+    Ejemplo
     `Ingrese cateto a: **7**
     Ingrese cateto b: **5**
     La hipotenusa es 8.6023252670426267`
@@ -112,7 +116,7 @@
     
     El promedio del ramo se calcula con la siguiente formula.
     
-    ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/03aeed31-03e2-46c3-8299-4087fcd648e4/e5a2e12b-0d1c-4bf8-8940-f3e6d3d99c28/Untitled.png)
+    ![image](https://github.com/Sgonzalez04/Ejercicios-basicos-Java/assets/141069199/0c4e6483-1c60-4b6d-82bc-afa7fe365dc6)
     
     Donde **NC** es el promedio de certámenes, **NL** el promedio de laboratorio y **NF**
     
@@ -208,7 +212,8 @@
     
     El riesgo de que una persona sufra enfermedades coronarias depende de su edad y su índice de masa corporal:
     
-    ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/03aeed31-03e2-46c3-8299-4087fcd648e4/f31d445f-20e1-46e7-9fd8-33970c229764/Untitled.png)
+    ![image](https://github.com/Sgonzalez04/Ejercicios-basicos-Java/assets/141069199/e19cdf93-2e56-4843-859c-f3e384356355)
+
     
     El índice de masa corporal es el cuociente entre el peso del individuo en kilos y el cuadrado de su estatura en metros.
     
