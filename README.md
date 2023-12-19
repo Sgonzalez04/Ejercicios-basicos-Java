@@ -1,7 +1,8 @@
 # Ejercicios-basicos-Java
 # Ejercicios
 
-- 1.  Ejercicio
+1.  Ejercicio
+    <aside>
     ⚙ **Saludo**
     
     Escriba un programa que pida al usuario que escriba su nombre, y lo salude llamándolo por su nombre.
@@ -9,10 +10,11 @@
     Ejemplo
     `Ingrese su nombre: **Perico**
     Hola, Perico`
-    
+
+
     </aside>
     
-- 2.  Ejercicio
+2.  Ejercicio
     
     <aside>
     ⚙ **Círculos**
@@ -26,7 +28,7 @@
     
     </aside>
     
-- 3.  Ejercicio
+3.  Ejercicio
     
     <aside>
     ⚙ **Promedio**
@@ -42,7 +44,7 @@
     
     </aside>
     
-- 4.  Ejercicio
+4.  Ejercicio
     
     <aside>
     ⚙ **Conversión de unidades de longitud**
@@ -57,14 +59,14 @@
     13 cm = 5.1181 in`
     
     </aside>
-    
-- 5.  Ejercicio
+
+5.  Ejercicio
     
     <aside>
     ⚙ ***Pitágoras***
     
-    Escriba un programa que reciba como entrada las longitudes de los dos catetos ***a*** y ***b*** de un triángulo rectángulo, y que entregue como salida el largo de la hipotenusa ***c*** del triangulo, dado por el teorema de Pitágoras
-![image](https://github.com/Sgonzalez04/Ejercicios-basicos-Java/assets/141069199/33dc9718-96b1-474f-85d6-043de087dbc1)
+    Escriba un programa que reciba como entrada las longitudes de los dos catetos ***a*** y ***b*** de un triángulo rectángulo, y que entregue como salida el largo de la hipotenusa ***c*** del triangulo, dado         por el teorema de Pitágoras
+    ![image](https://github.com/Sgonzalez04/Ejercicios-basicos-Java/assets/141069199/33dc9718-96b1-474f-85d6-043de087dbc1)
 
     Ejemplo
     `Ingrese cateto a: **7**
@@ -73,7 +75,7 @@
     
     </aside>
     
-- 6.  Ejercicio
+6.  Ejercicio
     
     <aside>
     ⚙ ***Hora futura***
@@ -90,7 +92,7 @@
     
     </aside>
     
-- 7.  Ejercicio
+7.  Ejercicio
     
     <aside>
     ⚙ **Parte decimal**
@@ -105,7 +107,7 @@
     
     </aside>
     
-- 8.  Ejercicio
+8.  Ejercicio
     
     <aside>
     ⚙ **Qué nota necesito**
@@ -131,7 +133,7 @@
     
     </aside>
     
-- 9.  Ejercicio
+9.  Ejercicio
     
     <aside>
     ⚙ **Palabra más larga**
@@ -152,7 +154,7 @@
     
     </aside>
     
-- 10.  Ejercicio
+10.  Ejercicio
     
     <aside>
     ⚙ **Edad**
@@ -171,7 +173,7 @@
     
     </aside>
     
-- 11.  Ejercicio
+11.  Ejercicio
     
     <aside>
     ⚙ **Ordenamiento[¶](http://progra.usm.cl/apunte/ejercicios/1/ordenamiento-basico.html#ordenamiento)**
@@ -203,7 +205,7 @@
     
     </aside>
     
-- 12.  Ejercicio
+12.  Ejercicio
     
     <aside>
     ⚙ **Índice de masa corporal**
@@ -221,7 +223,7 @@
     
     # 
     
-- 13. Ejercicio
+13. Ejercicio
     
     <aside>
     ⚙
